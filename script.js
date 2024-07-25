@@ -1,4 +1,4 @@
-let voicee = new SpeechSynthesisUtterance(); // object to handle text-to-speech requests.
+let voicee = new SpeechSynthesisUtterance(); 
 
 let voices = [];
 let voiceSelect = document.querySelector("select");
